@@ -4,7 +4,7 @@ from config.watson_config import get_llm
 from tavily import TavilyClient
 import os
 
-# Initialize
+# Initializ
 memory = ConversationBufferMemory(return_messages=True)
 llm = get_llm()
 tavily = TavilyClient(api_key=os.getenv("TAVILY_API_KEY"))
