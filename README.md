@@ -1,7 +1,9 @@
 # 🚀 GUIDE: Growth-based Unified Intelligence Direction Engine
 
 > **Team Name**: NODEMONS  
-> **Problem Statement**: Resume Parser & Skill Extraction Module, Recommendation Engine & Course Mapping
+> **Problem Statement**: The objective is to develop an AI-driven career counseling system that provides personalized career recommendations to students by analyzing their skills, interests, and aptitudes. Many students, especially in underserved areas, struggle to make informed decisions about their future due to a lack of guidance and awareness of career opportunities. This AI-powered solution will bridge that gap by offering tailored career suggestions and actionable insights to help students align their strengths with suitable career paths.
+
+A system that identifies potential career paths, suggests relevant skill-building courses, and provides information about future growth prospects in chosen fields.
 
 ---
 
@@ -27,6 +29,7 @@ Whether you're a student unsure of what comes next or an institution looking to 
 | **RAG (Retriever Chain)**      | Custom LangChain Retriever    |
 | **Language**                   | Python                        |
 | **API Testing**                | IBM Watsonx.ai platform       |
+| **Web search**                 | TavilyAPI                     |
 
 ---
 
@@ -59,7 +62,7 @@ gradio, langchain, pypdf2, ibm-watsonx-ai, python-dotenv, etc.
 ```bash
 Gradio ui.py
     or
-python main.py
+python ui.py
 ```
 
 ### 🎬 Demo Video
