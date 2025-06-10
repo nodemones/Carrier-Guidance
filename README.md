@@ -64,6 +64,14 @@ Gradio ui.py
     or
 python ui.py
 ```
+### 4. 🔐 Configure Environment Variables
+```bash
+cerate a dot env file and ensure to put these credientials the same.
+
+WATSONX_URL=_____________
+API_KEY=_____________
+PROJECT_ID=_____________
+```
 
 ### 🎬 Demo Video
 
