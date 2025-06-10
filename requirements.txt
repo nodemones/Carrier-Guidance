@@ -1,0 +1,11 @@
+langchain
+langchain_ibm
+langchain-community
+langgraph
+gradio
+chromadb
+ibm-watsonx-ai
+pdfminer.six
+pypdf
+tqdm
+numpy
