@@ -74,9 +74,7 @@ PROJECT_ID=_____________
 ```
 
 ### 🎬 Demo Video
-```
 [📽️ Watch the Demo](https://youtu.be/CDHLqnhgbaA?si=RpqKN5cPqYdWCErP)
-```
 
 ### 🌟 Key Highlights
 ```bash
